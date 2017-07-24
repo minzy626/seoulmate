@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawer_menu.xml",
+        "source": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\src\\main\\res\\menu\\drawer_menu.xml"
+    }
+]

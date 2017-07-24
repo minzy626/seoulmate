@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\minji\\.android\\build-cache\\755d29ab27cd86d55d95f30e10afcf70756b8e12\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\minji\\.android\\build-cache\\755d29ab27cd86d55d95f30e10afcf70756b8e12\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\minji\\.android\\build-cache\\755d29ab27cd86d55d95f30e10afcf70756b8e12\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

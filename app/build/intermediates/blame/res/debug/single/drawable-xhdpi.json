@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_folder.png",
+        "source": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\src\\main\\res\\drawable-xhdpi\\ic_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_add.png",
+        "source": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_home.png",
+        "source": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\src\\main\\res\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_search.png",
+        "source": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\src\\main\\res\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_settings.png",
+        "source": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_delete.png",
+        "source": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_location_on.png",
+        "source": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\src\\main\\res\\drawable-xhdpi\\ic_location_on.png"
+    },
+    {
+        "merged": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_info.png",
+        "source": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\src\\main\\res\\drawable-xhdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pets.png",
+        "source": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\src\\main\\res\\drawable-xhdpi\\ic_pets.png"
+    },
+    {
+        "merged": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_note.png",
+        "source": "C:\\Users\\minji\\AndroidStudioProjects\\ProjectAnnie\\app\\src\\main\\res\\drawable-xhdpi\\ic_note.png"
+    }
+]
